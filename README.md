@@ -2,4 +2,4 @@
 
 ## Live presentation [here](https://alonisser.github.io/overflow/#1)
 
-## Floats notebook [binder](https://mybinder.org/v2/gh/tutorials-4newbies/overflow/main?filepath=floating_points_pain.ipynb)
+## Floats notebook [binder](https://mybinder.org/v2/gh/tutorials-4newbies/overflow/master?filepath=floating_points_pain.ipynb)

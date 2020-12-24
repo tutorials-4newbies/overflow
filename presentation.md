@@ -7,14 +7,31 @@ class: center, middle
 [twitter](alonisser@twitter.com), [medium](https://medium.com/@alonisser/)
 
 ---
-# Tuple
+#Floats
 
 
 ---
+
+# The end of numbers
+
+Welcome to the Hilbert Hotel
+
+---
+# Bug 2000
+
+
+---
+# The story of A flight computer
+
+
+---
+# Intermezzo 
+## When need to work with precision but not integers (Money!)
+
+---
 # Read some more
-* [Read about more data structures](https://www.geeksforgeeks.org/data-structures/) in python and general: queue, stack
-* [Read more about sets](https://realpython.com/python-sets/)
-* [Python tuple module docs]()
+* Floats
+* Decimal
 ---
 
 # Homework
